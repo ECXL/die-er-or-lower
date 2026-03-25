@@ -1,0 +1,6 @@
+[
+    {"id": 0, "name": "Bears", "count": 2, "path": "./images/bears.jpg"},
+    {"id": 1, "name": "Teddy Bears", "count": 226000, "path": "./images/teddy_bears.png"},
+    {"id": 2, "name": "Hippopotamus", "count": 500, "path": "./images/hippopotamus.jpg"},
+    {"id": 3, "name": "Mosquitos", "count": 725000, "path": "./images/mosquitos.jpg"}
+]

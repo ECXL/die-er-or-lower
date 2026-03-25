@@ -1,0 +1,24 @@
+{
+  "name": "die-er-or-lower",
+  "version": "1.0.0",
+  "description": "Web Game For Higher or Lower based on yearly death rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECXL/die-er-or-lower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ECXL/die-er-or-lower/issues"
+  },
+  "homepage": "https://github.com/ECXL/die-er-or-lower#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
